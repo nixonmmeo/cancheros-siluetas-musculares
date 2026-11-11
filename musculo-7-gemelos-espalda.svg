@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Título: «Muscular system» / «Muscular system-back» — Autor: Termininja — Fuente: https://commons.wikimedia.org/wiki/File:Muscular_system.svg y …/File:Muscular_system-back.svg (vía wger, https://wger.de)
+  Basado en imágenes de Wikimedia Commons (todas CC BY-SA 3.0): Pectoralis major.png, Tibial anterior.png (Chrizz), Gastrocnemius.png, Latissimus dorsi.png (original de Chrizz, comprimida por Nikai).
+  Licencia: Creative Commons Atribución-CompartirIgual 3.0 (CC BY-SA 3.0) — https://creativecommons.org/licenses/by-sa/3.0/
+  ADAPTACIÓN simplificada de «Muscular system» de Termininja, hecha por Cancheros el 2026-11-11: se conserva solo el trazo del contorno (o los trazos del músculo resaltado), se redondean las coordenadas y se quitan los metadatos.
+  Esta adaptación se comparte con la misma licencia, CC BY-SA 3.0. La autoría original no implica aval del autor a Cancheros ni a esta adaptación.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="370" viewBox="0 0 200 370">
+  <g transform="translate(-54.28571,-335.71492)">
+    <g><path d="m 157.85,628.07 c 0.18,4.51 0.63,11.65 1.91,17.31 0.83,3.66 2.37,5.09 3.72,10.64 2.14,8.87 -0.81,29.19 0.02,29.59 1.59,0.92 1.82,-0.29 2.4,-0.92 4.22,-4.64 2.75,-12.29 5.04,-18.13 2.62,-6.68 4.96,-6.44 9.88,-19.13 0.41,-4.26 2.33,-10.65 2.51,-16.07 0.14,-4.4 -0.22,-10.77 -1.2,-13.16 -0.08,-3.21 -7.17,-16.99 -9.34,-18.56 -2.55,-0.64 -5.11,-3.66 -6.59,-1.64 -3.43,1.49 -3.37,1.69 -4.67,4.04 -2.31,4.16 -0.88,14.45 -3.67,26.02 z" fill="#d62828"/><path d="m 151.39,628.55 c -0.18,4.51 -0.63,11.65 -1.91,17.31 -0.83,3.66 -2.37,5.09 -3.72,10.64 -2.14,8.87 0.81,29.19 -0.02,29.59 -1.59,0.92 -1.82,-0.29 -2.4,-0.92 -4.22,-4.64 -2.75,-12.29 -5.04,-18.13 -2.62,-6.68 -4.96,-6.44 -9.88,-19.13 -0.41,-4.26 -2.33,-10.65 -2.51,-16.07 -0.14,-4.4 0.22,-10.77 1.2,-13.16 0.08,-3.21 7.17,-16.99 9.34,-18.56 2.55,-0.64 5.11,-3.66 6.59,-1.64 3.43,1.49 3.37,1.69 4.67,4.04 2.31,4.16 0.88,14.45 3.67,26.02 z" fill="#d62828"/></g>
+  </g>
+</svg>

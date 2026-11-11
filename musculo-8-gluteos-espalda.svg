@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Título: «Muscular system» / «Muscular system-back» — Autor: Termininja — Fuente: https://commons.wikimedia.org/wiki/File:Muscular_system.svg y …/File:Muscular_system-back.svg (vía wger, https://wger.de)
+  Basado en imágenes de Wikimedia Commons (todas CC BY-SA 3.0): Pectoralis major.png, Tibial anterior.png (Chrizz), Gastrocnemius.png, Latissimus dorsi.png (original de Chrizz, comprimida por Nikai).
+  Licencia: Creative Commons Atribución-CompartirIgual 3.0 (CC BY-SA 3.0) — https://creativecommons.org/licenses/by-sa/3.0/
+  ADAPTACIÓN simplificada de «Muscular system» de Termininja, hecha por Cancheros el 2026-11-11: se conserva solo el trazo del contorno (o los trazos del músculo resaltado), se redondean las coordenadas y se quitan los metadatos.
+  Esta adaptación se comparte con la misma licencia, CC BY-SA 3.0. La autoría original no implica aval del autor a Cancheros ni a esta adaptación.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="370" viewBox="0 0 200 370">
+  <g transform="translate(-54.28571,-335.71492)">
+    <g><path d="m 164.03,497.13 c -1.56,1.52 -1.57,4.1 -2.31,6.16 -1.08,2.96 -2.08,5.95 -3.13,8.91 -0.95,2.67 -2.82,5.5 -2.86,7.99 -0.13,7.03 5.38,9.34 8.72,12.21 3.34,2.87 6.95,5.51 9.33,7.84 2.38,2.33 6.07,4.27 9.3,7.71 2.26,2.41 4.84,5.13 5.17,9.62 0.46,6.27 -1.41,15.05 -0.92,14.42 3.29,-4.21 5.84,-31.17 4.06,-40.63 -0.63,-3.36 -0.58,-9.67 -2.32,-14.11 -2.41,-6.15 -6.45,-11.69 -10.95,-16.53 -2.84,-3.06 -7.72,-6.1 -9.89,-7.67 -2.55,-0.64 -2.73,2.05 -4.2,4.07 z" fill="#d62828"/><path d="m 144.1,497.59 c 1.56,1.52 1.57,4.1 2.31,6.16 1.08,2.96 2.08,5.95 3.13,8.91 0.95,2.67 2.82,5.5 2.86,7.99 0.13,7.03 -5.38,9.34 -8.72,12.21 -3.34,2.87 -6.95,5.51 -9.33,7.84 -2.38,2.33 -6.07,4.27 -9.3,7.71 -2.26,2.41 -4.84,5.13 -5.17,9.62 -0.46,6.27 1.41,15.05 0.92,14.42 -3.29,-4.21 -5.84,-31.17 -4.06,-40.63 0.63,-3.36 0.58,-9.67 2.32,-14.11 2.41,-6.15 6.45,-11.69 10.95,-16.53 2.84,-3.06 7.72,-6.1 9.89,-7.67 2.55,-0.64 2.73,2.05 4.2,4.07 z" fill="#d62828"/></g>
+  </g>
+</svg>

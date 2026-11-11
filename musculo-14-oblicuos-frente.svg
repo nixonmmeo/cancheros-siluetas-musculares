@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Título: «Muscular system» / «Muscular system-back» — Autor: Termininja — Fuente: https://commons.wikimedia.org/wiki/File:Muscular_system.svg y …/File:Muscular_system-back.svg (vía wger, https://wger.de)
+  Basado en imágenes de Wikimedia Commons (todas CC BY-SA 3.0): Pectoralis major.png, Tibial anterior.png (Chrizz), Gastrocnemius.png, Latissimus dorsi.png (original de Chrizz, comprimida por Nikai).
+  Licencia: Creative Commons Atribución-CompartirIgual 3.0 (CC BY-SA 3.0) — https://creativecommons.org/licenses/by-sa/3.0/
+  ADAPTACIÓN simplificada de «Muscular system» de Termininja, hecha por Cancheros el 2026-11-11: se conserva solo el trazo del contorno (o los trazos del músculo resaltado), se redondean las coordenadas y se quitan los metadatos.
+  Esta adaptación se comparte con la misma licencia, CC BY-SA 3.0. La autoría original no implica aval del autor a Cancheros ni a esta adaptación.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="370" viewBox="0 0 200 370">
+  <g transform="translate(-395.71431,-316.50506)">
+    <g><path d="m 463.35,436.83 c -1.67,1.72 1.94,-0.86 2.08,15.56 0.14,16.42 -1.53,1.46 1.87,19.37 1.28,6.76 14.52,23.1 15.99,20.72 1.47,-2.38 -3.46,-13.05 -4.13,-19.74 -0.75,-7.45 0.3,-14.98 0.11,-22.47 -0.15,-6.23 0.2,-15.19 -1,-18.66 -1.58,-4.55 -14.73,4.91 -14.93,5.21 z" fill="#d62828"/><path d="m 526.32,436.83 c 1.67,1.72 -1.94,-0.86 -2.08,15.56 -0.14,16.42 1.53,1.46 -1.87,19.37 -1.28,6.76 -14.52,23.1 -15.99,20.72 -1.47,-2.38 3.46,-13.05 4.13,-19.74 0.75,-7.45 -0.3,-14.98 -0.11,-22.47 0.15,-6.23 -0.2,-15.19 1,-18.66 1.58,-4.55 14.73,4.91 14.93,5.21 z" fill="#d62828"/></g>
+  </g>
+</svg>

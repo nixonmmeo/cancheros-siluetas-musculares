@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Título: «Muscular system» / «Muscular system-back» — Autor: Termininja — Fuente: https://commons.wikimedia.org/wiki/File:Muscular_system.svg y …/File:Muscular_system-back.svg (vía wger, https://wger.de)
+  Basado en imágenes de Wikimedia Commons (todas CC BY-SA 3.0): Pectoralis major.png, Tibial anterior.png (Chrizz), Gastrocnemius.png, Latissimus dorsi.png (original de Chrizz, comprimida por Nikai).
+  Licencia: Creative Commons Atribución-CompartirIgual 3.0 (CC BY-SA 3.0) — https://creativecommons.org/licenses/by-sa/3.0/
+  ADAPTACIÓN simplificada de «Muscular system» de Termininja, hecha por Cancheros el 2026-11-11: se conserva solo el trazo del contorno (o los trazos del músculo resaltado), se redondean las coordenadas y se quitan los metadatos.
+  Esta adaptación se comparte con la misma licencia, CC BY-SA 3.0. La autoría original no implica aval del autor a Cancheros ni a esta adaptación.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="370" viewBox="0 0 200 370">
+  <g transform="translate(-395.71431,-316.50506)">
+    <g><path d="m 498.36,434.58 c -1.56,1.52 -0.13,3.99 -0.17,5.98 -0.05,2.55 -0.04,5.11 -0.09,7.66 -0.09,4.51 -0.22,9.02 -0.36,13.53 -0.17,5.48 0.15,9.91 -0.58,16.45 -0.96,8.58 -1.34,19.66 -0.5,20.06 1.59,0.92 5.56,-3.04 7.45,-5.46 1.51,-1.94 1.48,-0.71 2.79,-6.83 0.9,-4.24 1.43,-9.26 1.67,-9.73 0.61,-1.1 0.94,-4.81 1.39,-9.41 0.41,-4.26 0.29,-7.01 0.23,-10.51 -0.09,-5.99 0.04,-15.57 -0.95,-17.96 -0.08,-3.21 -1.11,-3.6 -3.28,-5.17 -2.55,-0.64 -6.12,-0.63 -7.6,1.39 z" fill="#d62828"/><path d="m 490.22,434.48 c 1.56,1.52 0.13,3.99 0.17,5.98 0.05,2.55 0.04,5.11 0.09,7.66 0.09,4.51 0.22,9.02 0.36,13.53 0.17,5.48 -0.15,9.91 0.58,16.45 0.96,8.58 1.34,19.66 0.5,20.06 -1.59,0.92 -5.56,-3.04 -7.45,-5.46 -1.51,-1.94 -1.48,-0.71 -2.79,-6.83 -0.9,-4.24 -1.43,-9.26 -1.67,-9.73 -0.61,-1.1 -0.94,-4.81 -1.39,-9.41 -0.41,-4.26 -0.29,-7.01 -0.23,-10.51 0.09,-5.99 -0.04,-15.57 0.95,-17.96 0.08,-3.21 1.11,-3.6 3.28,-5.17 2.55,-0.64 6.12,-0.63 7.6,1.39 z" fill="#d62828"/></g>
+  </g>
+</svg>
